@@ -1,3 +1,4 @@
 *.db
 __pycache__/
 .coverage
+project2/gradebot.exe
